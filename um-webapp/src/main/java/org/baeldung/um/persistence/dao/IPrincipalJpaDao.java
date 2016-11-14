@@ -8,4 +8,3 @@ import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 public interface IPrincipalJpaDao extends JpaRepository<Principal, Long>, JpaSpecificationExecutor<Principal>, IByNameApi<Principal> {
     //
 }
-//dsfsdffsd
